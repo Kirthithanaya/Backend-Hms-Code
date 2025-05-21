@@ -4,8 +4,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-   "start": "node index.js",
-   "dev": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
@@ -13,7 +13,6 @@
   "description": "",
   "dependencies": {
     "bcrypt": "^5.1.1",
-    "bcryptjs": "^3.0.2",
     "client": "^0.0.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
